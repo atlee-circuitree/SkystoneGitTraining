@@ -113,4 +113,10 @@ public class TrainingOpMode3 extends LinearOpMode {
         }
     }
 }
+<<<<<<< HEAD
 //EXTREMELY IMPORTANT CHANGE
+
+//NICKS EDIT TO OPT MODE 3
+=======
+>>>>>>> 1b41bda03aaadf3c46ed7a74a080a1e77cbffacc
+
