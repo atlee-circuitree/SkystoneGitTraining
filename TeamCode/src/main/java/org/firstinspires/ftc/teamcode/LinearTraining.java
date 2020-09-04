@@ -101,6 +101,8 @@ public class LinearTraining extends LinearOpMode {
             // leftPower  = -gamepad1.left_stick_y ;
             // rightPower = -gamepad1.right_stick_y ;
 
+            //Useless Comment
+
             // Send calculated power to wheels
             leftDrive.setPower(leftPower);
             rightDrive.setPower(rightPower);
